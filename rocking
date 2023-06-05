@@ -1,0 +1,4 @@
+Public static void Mian9Srring[]args)
+{
+System.out.println("hello world");
+}
